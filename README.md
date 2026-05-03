@@ -32,8 +32,3 @@ It is critical to note that this method provides **post-hoc semantic evidence**.
 2. **Dependencies:** `pip install -r requirements.txt`
 3. **Run:** `streamlit run app.py`
 
-## Portfolio Highlights
-- **Architecture:** Demonstrates integration of multiple Hugging Face backends (generative vs. discriminative).
-- **Explainability:** Implementation of cross-modal similarity for visual grounding.
-- **Software Engineering:** Clean separation of concerns (config, loader, pipeline, explainability).
-- **Performance:** Hardware-aware profiling and lazy-loading implementations.
